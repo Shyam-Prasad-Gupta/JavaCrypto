@@ -1,0 +1,5 @@
+- [x] created the basic structure
+- [x] added the readme.md file in project
+- [ ] need to work with jsypt java library
+- [ ] need to integrate jsypt with spring framework
+- [ ] need to integrate jsypt with hibernate framework
