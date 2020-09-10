@@ -41,3 +41,28 @@ console.log("this is another way to write code block with 3 back ticks but also 
 ```
 
 Hey @shyam-prasad-gupta: happy - to see you online.
+
+
+As Kanye West said:(Blockquotes)
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an(inlinecode)
+`<addr>` element here instead.
+
+#### Tables
+First Name | Last Name
+-----------|-----------
+Shyam | Gupta
+Manisha | Gupta
+Rakesh | Gupta
+Ram | Gupta
+
+be5c2399736b4f443a1e2689f9e66a53f5a8deaa
+
+
+#### Strikethrough
+~~shyam~~
+~~prasad~~
+~~gupta~~
