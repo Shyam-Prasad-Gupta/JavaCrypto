@@ -9,6 +9,12 @@ import java.security.SecureRandom;
 import javax.crypto.Cipher;
 import javax.xml.bind.DatatypeConverter;
 
+/**
+ * Here we are demonstrating Asymmetric encryption using RSA algorithm.
+ * To learn more about this check this <a href=https://www.devglan.com/java8/rsa-encryption-decryption-java>link</a>.
+ * @author shyamgupta
+ *
+ */
 public class AsymmetricEncryptionUtils {
 	
 	private static final String RSA = "RSA";

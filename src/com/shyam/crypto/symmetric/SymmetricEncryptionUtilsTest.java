@@ -9,13 +9,6 @@ import javax.xml.bind.DatatypeConverter;
 import org.junit.Test;
 
 public class SymmetricEncryptionUtilsTest {
-
-	/*@Test
-	public void createAESKey() throws Exception{
-		SecretKey key = SymmetricEncryptionUtils.createAESKey();
-		assertNotNull(key);
-		System.out.println(DatatypeConverter.printHexBinary(key.getEncoded()));
-	}*/
 	
 	@Test
 	public void testAESCryptoRoutine() {

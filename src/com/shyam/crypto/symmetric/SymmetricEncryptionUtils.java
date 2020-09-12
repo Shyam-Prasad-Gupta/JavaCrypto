@@ -13,6 +13,12 @@ import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.IvParameterSpec;
 
+/**
+ * Here we are demonstrating Symmetric encryption using AES algorithm.
+ * To learn more about this check this <a href=https://www.devglan.com/corejava/java-aes-encypt-decrypt>link</a>.
+ * @author shyamgupta
+ *
+ */
 public class SymmetricEncryptionUtils {
 
 	private static final String AES = "AES";
